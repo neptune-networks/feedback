@@ -1,2 +1,3 @@
-# feedback
-A public repository to track interest in features for Neptune Networks
+# Neptune Networks Feedback
+
+This is a repository for facilitating a conversation around feature requests, bug repots, and questions on how to use the [Neptune Networks Platform](https://neptunenetworks.org).
